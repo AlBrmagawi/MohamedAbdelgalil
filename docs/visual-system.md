@@ -15,6 +15,12 @@ Screenshots are unmodified copies of existing public repository assets, not gene
 
 Only public code, repository assets and the owner's supplied education/certifications inform the profile. Amerna is credited as the home of the earlier notebook contribution; no current employment title is asserted.
 
+## Current repository previews
+
+The restored portfolio in MohamedAbdelgalil was checked on its actual GitHub repository page at 1440, 390 and 320px in both light and dark themes. All six layouts load the expected responsive header and screenshots, have meaningful alternative text, and fit without page or README overflow, including expanded screenshot disclosures.
+
+[Desktop, light theme](previews/portfolio-desktop-light.png) · [Mobile, dark theme](previews/portfolio-mobile-dark.png).
+
 ## Original rendered review
 
 Snapshots captured on 2026-09-29 from actual public GitHub pages, before this portfolio moved to the standalone MohamedAbdelgalil repository:
